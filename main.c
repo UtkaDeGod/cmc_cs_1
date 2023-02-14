@@ -12,7 +12,6 @@ abs(int num)
     return num;
 }
 
-// Сравнение по невозрастанию модулей
 // Variable for counting amount of comparisons
 int comp_counter = 0;
 
